@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
         ),
         body: Column(
           crossAxisAlignment: CrossAxisAlignment.stretch,
-          children: [
+          children:[
             SizedBox(
               height: 200,
               child: Center(child: Image.asset('assets/images/pavlova.jpg', fit: BoxFit.cover,)),
