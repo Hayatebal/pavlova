@@ -8,7 +8,8 @@ class PavlovaApp extends StatelessWidget {
     return MaterialApp(
       title: 'Pavlova',
       home: Scaffold(
-        appBar: AppBar(title: const Text('Balilaon_Activity1')),
+        appBar: AppBar(title: const Text('Balilaon_Lab activity 3 PAVLOVA')),
+
         body: ListView(
           children: [
             SizedBox(
